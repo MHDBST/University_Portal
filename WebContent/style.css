@@ -1,0 +1,39 @@
+
+body{
+    background-color: pink;
+    direction: rtl;
+    font-family: Tahoma;
+    lang: fa;
+    width: 960px;
+    margin: auto;
+
+}
+
+#classMembers{
+    border-style: solid;
+    border-break: solid;
+    vertical-align: middle;
+
+}
+#classMembers td {
+    border:solid thin;
+}
+#scheduleTable {
+    border-style: solid;
+}
+#scheduleTable td{
+    border: solid thin;
+}
+
+#coursesTable{
+    border-style: solid;
+}
+#coursesTable td,th{
+    border: solid thin;
+}
+
+.teacherButtons{
+	background-color: red;
+	margin: 10px;
+	padding:5px;
+	}
